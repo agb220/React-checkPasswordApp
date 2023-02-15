@@ -1,0 +1,28 @@
+.form-control {
+  display: flex;
+  justify-content: center;
+}
+.check {
+  width: 100px;
+  border: 5px solid grey;
+  background: grey;
+  margin-right: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.danger {
+  border: 1px solid red;
+  background: red;
+}
+.warning {
+  border: 1px solid yellow;
+  background: yellow;
+}
+.success {
+  border: 1px solid green;
+  background: green;
+}
+.dark {
+  border: 5px solid rgb(78, 76, 76);
+  background: rgb(78, 76, 76);
+}
